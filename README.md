@@ -22,9 +22,9 @@ SOME OF THE INSIGHTS FROM THE ABOVE ANALYSIS
 3) The price of ticket also depend on the number of stops that flight takes
 4) The fare price of major city remains same for a while cheapest economy ticket was from mumbai to hyderabad
 5) There are few city which has very good flight connectivity
-    a)  Mumbai
-    b)  Bangalore
-    c)  Delhi
-    d)  Hyderabad
-    e)  Kolkata
-    f) chennai
+    1)  Mumbai
+    2)  Bangalore
+    3)  Delhi
+    4)  Hyderabad
+    5)  Kolkata
+    6) chennai
